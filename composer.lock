@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "1bed80b69c28bd9a8e53bdbd916526c8",
+    "hash": "04d7fff4932021c2a97665e67dbda9e3",
     "content-hash": "9023fce1c4ba5d73a28bfa9f3f91db7a",
     "packages": [
         {
@@ -135,12 +135,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/poldotz/snappy.git",
-                "reference": "4135c58d0bc8c48266667513a6df2058124ca9fb"
+                "reference": "92c4f4214b18409e9dafec40edfa98a5ffde61df"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/poldotz/snappy/zipball/4135c58d0bc8c48266667513a6df2058124ca9fb",
-                "reference": "4135c58d0bc8c48266667513a6df2058124ca9fb",
+                "url": "https://api.github.com/repos/poldotz/snappy/zipball/92c4f4214b18409e9dafec40edfa98a5ffde61df",
+                "reference": "92c4f4214b18409e9dafec40edfa98a5ffde61df",
                 "shasum": ""
             },
             "require": {
@@ -190,9 +190,9 @@
                 "wkhtmltopdf"
             ],
             "support": {
-                "source": "https://github.com/poldotz/snappy/tree/dev-bugfix"
+                "source": "https://github.com/poldotz/snappy/tree/bugfix"
             },
-            "time": "2015-11-04 22:42:49"
+            "time": "2015-11-08 16:00:30"
         },
         {
             "name": "psr/log",
