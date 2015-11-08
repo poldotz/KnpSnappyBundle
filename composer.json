@@ -17,10 +17,10 @@
         }
     ],
     "repositories": [
-    {
+     {
        "type": "vcs",
        "url": "https://github.com/poldotz/snappy"
-    }
+     }
     ],
     "require": {
         "php":                      ">=5.3.2",
